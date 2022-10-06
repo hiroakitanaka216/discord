@@ -1,4 +1,6 @@
 # referred https://qiita.com/marufura/items/6f7d9ab1369a8f485100
+# discord.pyを以下のコマンドを使って、まずダウンロードする必要があり
+# $ python3 -m pip install -U "discord.py[voice]"
 import discord
 
 # 自分のBotのアクセストークン
