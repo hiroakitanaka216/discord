@@ -1,3 +1,4 @@
+# referred https://qiita.com/marufura/items/6f7d9ab1369a8f485100
 import discord
 
 # 自分のBotのアクセストークン
