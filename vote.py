@@ -113,3 +113,6 @@ async def on_message(message):
 
 # Botの起動とDiscordへの接続
 client.run(TOKEN)
+
+# 質問文入力のコマンドは以下
+# question.vote.[質問文].[選択肢1].[選択肢2].[選択肢3]
